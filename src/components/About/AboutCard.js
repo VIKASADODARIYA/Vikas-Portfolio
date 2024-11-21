@@ -23,9 +23,6 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
-            </li>
-            <li className="about-activity">
               <ImPointRight /> Travelling
             </li>
             <li className="about-activity">
@@ -35,11 +32,6 @@ function AboutCard() {
               <ImPointRight /> Reading
             </li>
           </ul>
-
-          <p style={{ color: "rgb(61, 80, 222)" }}>
-            "Strive to build things that make a difference!"{" "}
-          </p>
-          <footer className="blockquote-footer">Vikas</footer>
         </blockquote>
       </Card.Body>
     </Card>

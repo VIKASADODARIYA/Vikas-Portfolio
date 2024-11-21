@@ -9,10 +9,12 @@ import {
   DiPython,
   DiGit,
   DiJava,
+  DiDotnet,
+  DiPostgresql,
+  DiDatabase,
 } from "react-icons/di";
 import {
   SiFirebase,
-  SiNextdotjs,
   SiMysql,
 } from "react-icons/si";
 // import { FaCode } from "react-icons/fa";
@@ -46,9 +48,6 @@ function Techstack() {
         <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -62,6 +61,15 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiDotnet />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiPostgresql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiDatabase />
       </Col>
     </Row>
   );

@@ -28,6 +28,9 @@ function Home() {
               <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
               </div>
+              <div style={{ paddingLeft:50, textAlign: "left", fontSize:"1.2rem" }}>
+                Turning ideas into functional and beautiful web solutions. I craft modern, responsive, and impactful websites.
+              </div>
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>
