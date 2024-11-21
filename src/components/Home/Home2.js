@@ -90,7 +90,7 @@ function Home2() {
                   href="https://www.linkedin.com/in/vikas-adodariya-22b719242"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
                   <FaLinkedinIn />
                 </a>

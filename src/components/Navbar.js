@@ -3,11 +3,9 @@ import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import logo from "../Assets/vikas-logo-1.png";
-import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import { DiGithub } from "react-icons/di";
 import {
-  AiFillStar,
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,

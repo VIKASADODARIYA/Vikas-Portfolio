@@ -16,7 +16,7 @@ function AboutCard() {
             I am currently pursuing a Bachelor of Engineering degree in Computer Engineering.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from Coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">

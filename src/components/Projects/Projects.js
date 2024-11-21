@@ -81,7 +81,7 @@ function Projects() {
               imgPath={BookStore}
               isBlog={false}
               title="bookStore"
-              description="The BookStore is an educational web app for browsing, managing, and purchasing books, featuring user-friendly interfaces, advanced search, and admin functionalities for CRUD operations."
+              description="The bookStore is an educational web app for browsing, managing, and purchasing books, featuring user-friendly interfaces, advanced search, and admin functionalities for CRUD operations."
               ghLink="https://github.com/VIKASADODARIYA/bookStore"
               demoLink="#"
             />

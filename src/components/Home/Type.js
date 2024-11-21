@@ -11,7 +11,7 @@ function Type() {
           "MERN Stack Developer",
           "Front-end Developer",
           "Full Stack Developer",
-          "Java Developer",
+          "Java Developer" ,
         ],
         autoStart: true,
         loop: true,

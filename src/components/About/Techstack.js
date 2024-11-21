@@ -17,7 +17,6 @@ import {
   SiFirebase,
   SiMysql,
 } from "react-icons/si";
-// import { FaCode } from "react-icons/fa";
 import { FaHtml5, FaCss3Alt } from "react-icons/fa";
 
 function Techstack() {
